@@ -1,0 +1,18 @@
+.dentaStyle {
+  background-color: #dca715;
+}
+
+#cekfebri {
+  color: rgb(255, 153, 0);
+}
+
+div > table > th {
+  background-color: #dca715;
+}
+
+table,
+thead,
+tr,
+th {
+  background-color: "red";
+}
